@@ -1,4 +1,10 @@
+This project contains a list of various plugins and themes for Wordpress. 
+By: Niklas Bivald <niklas@bivald.com>
+
+========================================================================================
+
 Wordpress Latest Github Commits
+File(s): plugins/latest-github-commits.php
 By: Niklas Bivald <niklas@bivald.com>
 
 INTRODUCTION
@@ -22,3 +28,5 @@ Place the PHP file in your plugin folder, enable and add the widget.
 
 NOTES
 It's an early version - use with care. 
+
+========================================================================================
