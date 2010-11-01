@@ -1,0 +1,24 @@
+Wordpress Latest Github Commits
+By: Niklas Bivald <niklas@bivald.com>
+
+INTRODUCTION
+Latest Github Commits is a simple and to-the-point Wordpress widget that 
+fetches the latest Github Commits from a user and project. It caches
+the data locally using Wordpress built-in Transients storage.
+
+It fetches the data using Githubs API
+
+You need to configure:
+ - Github owner of the project (i.e bivald)
+ - Project URL (i.e wordpress-latest-github-commits)
+
+And can also set:
+ - Widget title
+ - Max commits to list
+ - How long to cache
+
+INSTALL
+Place the PHP file in your plugin folder, enable and add the widget. 
+
+NOTES
+It's an early version - use with care. 
